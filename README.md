@@ -18,3 +18,10 @@ This project is based on the [Modern Database Management] case study, focusing o
 
 ## Environment
 - Database: MySQL 8.0 / SQL Server 2022+
+
+## SQL Query Practice
+
+### 1. Filter Sales Orders
+* **Goal:** Retrieve the customer ID for a specific order tracking number.
+* **Key Concept:** `WHERE` clause filtering.
+* **Code:** [customer_order_filter.sql](./SQL_Queries/customer_order_filter.sql)
